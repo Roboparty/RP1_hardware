@@ -38,9 +38,7 @@ Extract the source archive and open `RP1_SolidWorks_Source/RP1.3.4整机.SLDASM`
 
 ### CNC part drawing · YCL.M000642
 
-[![YCL.M000642 upper-arm body machining drawing](assets/images/cnc-part-drawing.png)](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
-
-[Open the CNC drawing (PDF)](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
+![YCL.M000642 upper-arm body machining drawing](assets/images/cnc-part-drawing.png)
 
 ### BACKHUB PCB layout
 

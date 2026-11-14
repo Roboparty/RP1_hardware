@@ -38,9 +38,7 @@ RoboParty RP1 人形机器人的硬件设计与制造资料，包括机械结构
 
 ### CNC 加工图纸 · 大臂上本体
 
-[![YCL.M000642 大臂上本体（01版）CNC 加工图纸](assets/images/cnc-part-drawing.png)](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
-
-[查看 CNC 加工图纸 PDF](<01_Mechanic/02_Manufacturing/01_CNC/Common/YCL.M000642 大臂上本体（01版）.PDF>)
+![YCL.M000642 大臂上本体（01版）CNC 加工图纸](assets/images/cnc-part-drawing.png)
 
 ### BACKHUB PCB 板图
 
